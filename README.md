@@ -15,15 +15,11 @@
 <img src="https://skillicons.dev/icons?i=html,css" />
 
 <img src="https://skillicons.dev/icons?i=arduino" />
-<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
-<img src="https://img.shields.io/badge/LTspice-A00000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge" />
 
 </div>
 
