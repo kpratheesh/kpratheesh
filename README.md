@@ -10,24 +10,18 @@
 
 <div align="center">
 
-### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
 
-### Web Development
 <img src="https://skillicons.dev/icons?i=html,css" />
 
-### Embedded Systems & IoT
 <img src="https://skillicons.dev/icons?i=arduino" />
 <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
-### Database
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
-### Electronics Design
 <img src="https://img.shields.io/badge/LTspice-A00000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge" />
 
