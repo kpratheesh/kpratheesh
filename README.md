@@ -12,12 +12,12 @@
 
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=true&layout=compact" />
+
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
