@@ -20,6 +20,3 @@
 
 ---
 
-<p align="center">
-  <sub>Passionate about building embedded systems, IoT solutions, and software applications that bridge hardware and software.</sub>
-</p>
