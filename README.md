@@ -16,7 +16,7 @@
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=true&layout=compact" />
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=true&layout=compact&langs_count=10" />
 
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
