@@ -1,41 +1,25 @@
-<h1 align="center">Hi 👋, I'm Pratheesh Kannan</h1>
+<h1 align="center">🇵​​🇷​​🇦​​🇹​​🇭​​🇪​​🇪​​🇸​​🇭​ ​🇰​​🇦​​🇳​​🇳​​🇦​​🇳​</h1>
 
 <p align="center">
-  Electronics & Communication Engineering Student
+𝐄𝐥𝐞𝐜𝐭𝐫𝐨𝐧𝐢𝐜𝐬 𝐚𝐧𝐝 𝐂𝐨𝐦𝐦𝐮𝐧𝐢𝐜𝐚𝐭𝐢𝐨𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫𝐢𝐧𝐠 𝐒𝐭𝐮𝐝𝐞𝐧𝐭
 </p>
 
-<br>
+---
+## 𝐒𝐤𝐢𝐥𝐥𝐬 𝐚𝐧𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,linux,vscode,arduino" />
+</p>
 
-## 🛠️ Skills & Technologies
+## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
+---
 
-<img src="https://skillicons.dev/icons?i=html,css" />
-
-<img src="https://skillicons.dev/icons?i=arduino" />
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-
-
-</div>
-
-<br>
-
-## 📊 GitHub Stats
-<br>
-
-<!-- LIVE STATUS -->
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=222222&hide_border=false"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&border_color=222222&hide_border=false"/>
-
-</div>
-
-<br>
+<p align="center">
+  <sub>Passionate about building embedded systems, IoT solutions, and software applications that bridge hardware and software.</sub>
+</p>
