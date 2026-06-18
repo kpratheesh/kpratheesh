@@ -1,35 +1,56 @@
-<h1 align="center">Hi 👋, I'm Pratheesh</h1>
-<h3 align="center">
-Electronics & Communication Engineering Student | Embedded Systems | IoT | Frontend Developer
-</h3>
+```md
+<h1 align="center">Hi 👋, I'm Pratheesh Kannan</h1>
 
-## 🛠️ Tech Stack
+<p align="center">
+  Electronics & Communication Engineering Student
+</p>
+
+<br>
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
 
 ### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,c,java,javascript" />
 
 ### Web Development
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### Embedded Systems & IoT
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 
-### Databases
+### Database
+<img src="https://skillicons.dev/icons?i=mysql" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 
-### Embedded & IoT
+### Electronics Design
+<img src="https://img.shields.io/badge/LTspice-A00000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge" />
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+</div>
 
-### Tools
+<br>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![EasyEDA](https://img.shields.io/badge/EasyEDA-1765F6?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-900028?style=for-the-badge)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Electronics • Embedded Systems • IoT • Full Stack Development
+
+</div>
+```
