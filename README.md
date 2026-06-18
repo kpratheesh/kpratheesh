@@ -26,11 +26,16 @@
 <br>
 
 ## 📊 GitHub Stats
+<br>
+
+<!-- LIVE STATUS -->
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&icon_color=ffffff&border_color=222222&hide_border=false"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&layout=compact&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&layout=compact&theme=transparent&bg_color=00000000&title_color=ffffff&text_color=8b949e&border_color=222222&hide_border=false"/>
 
 </div>
+
+<br>
