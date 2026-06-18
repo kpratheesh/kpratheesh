@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Pratheesh Kannan</h1>
 
 <p align="center">
@@ -40,17 +39,8 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### Electronics • Embedded Systems • IoT • Full Stack Development
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
 
 </div>
-```
