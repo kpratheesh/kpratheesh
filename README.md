@@ -16,7 +16,3 @@ Building practical solutions across Embedded Systems, Software Development, and 
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,linux,vscode,arduino" />
 </p>
 
-## Connect with me
-<p align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kpratheesh7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kpratheesh1506@gmail.com) 
-
