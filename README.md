@@ -17,15 +17,3 @@ Building practical solutions across Embedded Systems, Software Development, and 
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,linux,vscode,arduino" />
 </p>
 
-## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
-
-
-## 📊 GitHub Stats
-
-## 📊 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=default" />
-</p>
-
-
