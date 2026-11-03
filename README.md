@@ -17,14 +17,14 @@ Building practical solutions across Embedded Systems, Software Development, and 
   <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,mysql,linux,vscode,arduino" />
 </p>
 
-# 📊 GitHub Stats:
-https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
-<div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kpratheesh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&theme=github_dark&hide_border=true&layout=compact&langs_count=10" />
+![](https://github-readme-stats.vercel.app/api?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-</div>
+![](https://streak-stats.demolab.com/?user=kpratheesh&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
