@@ -18,10 +18,7 @@ Building practical solutions across Embedded Systems, Software Development, and 
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=kpratheesh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hid
-
+https://github-readme-stats.shion.dev/api/top-langs/?username=kpratheesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact
 ## 𝐆𝐢𝐭𝐇𝐮𝐛 𝐒𝐭𝐚𝐭𝐬
 
 <div align="center">
